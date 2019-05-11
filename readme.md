@@ -1,3 +1,3 @@
 #Example-repo
 
-This is a sample repository , hello world!
+This is a sample repository , hello coders!
